@@ -1,4 +1,3 @@
-// MP 3
 #include <wb.h>
 
 #define wbCheck(stmt)                                                      \
