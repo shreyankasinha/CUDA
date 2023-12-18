@@ -31,7 +31,7 @@ To test the configurations, execute RAI with the cudaGetDeviceProperties. For ex
 ```
 Alternatively, if you have added RAI's location to your `$PATH`, simply run:
 ```bash
-rai -p ./MP0
+rai -p ./cudaGetDeviceProperties
 ```
 
 ### Windows
